@@ -3,6 +3,7 @@
 - 💻 I'm running Arch Linux for years, with i3-wm
 - 🌱 I’m currently learning go language and distributed computing
 - 📫 You can reach me at shay@shayashk.com
+- 🌳 My personal website: https://shayashk.com/
 
 <!---
 shayas/shayas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
